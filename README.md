@@ -1,13 +1,14 @@
 
 # Tenzies
-![7EA1E0D1-2350-40A4-A054-195CDFF00D00](https://user-images.githubusercontent.com/66644345/192301989-d104cbfb-0f1a-4902-996b-cf5ff39dd10c.jpeg)
+![Image 26-10-2022 at 17 35](https://user-images.githubusercontent.com/66644345/198083662-c8283246-357a-452e-aae7-2ae2502f55be.jpg)
 
 ## Rules
-1. This two player game is played on a 3 by 3 grid.
-2. First player is always X and second player is always O. Each player takes turns putting their marks in an empty square.
-3. In order to win a player has to get their marks in a line of 3. This has to either be a horizontal line, vertical line or diagonal line. 
-4. If neither player has a straight line of 3 marks, it's a tie.
-5. When all 9 squares are full, the game is over.
+The goal is to get all the die to be the same number 
+
+1. This is a single player game.
+2. Select all the die that are same.
+3. If new numbers are needed select the Roll button to generate new die  
+
 
 ## Tech used
 
