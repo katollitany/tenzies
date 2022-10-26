@@ -1,5 +1,5 @@
 
-# Tic-Tac-Toe 
+# Tenzies
 ![7EA1E0D1-2350-40A4-A054-195CDFF00D00](https://user-images.githubusercontent.com/66644345/192301989-d104cbfb-0f1a-4902-996b-cf5ff39dd10c.jpeg)
 
 ## Rules
