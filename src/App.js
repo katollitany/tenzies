@@ -2,8 +2,8 @@ import React from "react";
 import "./main.scss";
 import Die from "./components/Die";
 import { nanoid } from "nanoid";
-import Confetti from "react-confetti";
 import useWindowSize from "react-use/lib/useWindowSize";
+import Confetti from "react-confetti";
 
 export default function App() {
   const [dice, setDice] = React.useState(allNewDice());

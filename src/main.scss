@@ -18,6 +18,7 @@ body {
       max-width: 860px;
       height: 820px;
       display: flex;
+      align-items: center;
       flex-direction: column;
     }
     .title {
@@ -51,7 +52,8 @@ body {
       justify-content: center;
       align-items: center;
       cursor: pointer;
-      font-size: 35px;
+      font-size: 40px;
+      font-weight: 700;
     }
 
     .roll-btn {
@@ -62,6 +64,7 @@ body {
       font-size: 36px;
       margin: 0% 30% 0% 30%;
       box-shadow: 8px 7px 20px 0px #888888;
+      padding: 0px 40px;
     }
   }
 }
